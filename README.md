@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Amir Hossain</h1>
-<h2 align="center">A problem solver and developer from Bangladesh.</h3>
-<h3 align="center">Workflow automation is my expertise.</h3>
+<h2 align="center">React | Next.Js | Web Developer | JavaScript | Google Apps Script Programmer</h3>
+<h3 align="center">JavaScript is my expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swopno1&label=Profile%20views&color=0e75b6&style=flat" alt="Md Amir Hossain" /> </p>
 
@@ -14,9 +14,7 @@
 
 - 🤝 I’m looking for help with **Learning Dev-ops**
 
-- 👨‍💻 All of my projects are available at [https://www.shohoje.tech/projects](https://www.shohoje.tech/projects)
-
-- 📝 I regularly write articles on [https://www.shohoje.tech/blogs](https://www.shohoje.tech/blogs)
+- 👨‍💻 All of my projects are available at [https://amir-hossain.vercel.app](https://amir-hossain.vercel.app)
 
 - 💬 Ask me about **Google Apps-script**
 
@@ -43,3 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swopno1&show_icons=true&locale=en" alt="swopno1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swopno1&" alt="swopno1" /></p>
+
+I'm being working as a Google Apps Script developer for over 5 years. I have completed hundreds of successful projects so far. And then I started learning React. And now I am a React front-end developer with many successfully MERN-stack CRUD projects.
+
+Also, As a freelance JavaScript developer, I have always been praised as a problem solver. During this journey to become a front-end developer, I have found myself as a self-starter with a team-oriented mindset that has already proven track record of delivering positive results. I can easily adapt new technology and adapt with new environment.
+
+#JavaScript #React #Workflow-automation
