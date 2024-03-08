@@ -4,9 +4,9 @@
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
-![Age](https://img.shields.io/badge/age-22-blueviolet)
-![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
+![Age](https://img.shields.io/badge/age-35-blueviolet)
+![views](https://komarev.com/ghpvc/?username=swopno1&label=Profile%20views&color=0e75b6&style=flat)
+[![Github](https://img.shields.io/github/followers/swopno1?label=Follow&style=social)](https://github.com/swopno1)&nbsp;
 
 <h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
 
