@@ -30,6 +30,31 @@
   <br />
 </div>
 
+<!-- === === === === === === === === === === === === === === -->
+
+<br />
+
+<!-- right side img -->
+<img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
+
+<br />
+
+<div>
+<!-- left side section -->
+
+- 🎯 I’m currently working as freelance developer.
+- 👯 I amm ready to collaborate with other passionate developers.
+- 🥅 2024 Goals: To be a Master of DevOps, React Native, and Testing
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://amirnft.com/) for more details about me.
+- 🤔 I’m looking for help with To increase efficiency
+- 📫 How to reach me: amirhossain.limon@gmail.com
+- ⚡ Fun fact **I have learn Google App-script even before learning JavaScript.**
+  </div>
+
+<br/>
+
+<h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
+
 
 <!-- Old from here -->
 
@@ -44,8 +69,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swopno1" alt="Md Amir Hossain" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shohojetech" target="blank"><img src="https://img.shields.io/twitter/follow/shohojetech?logo=twitter&style=for-the-badge" alt="shohojetech" /></a> </p>
- -->
- 
+
 - 🔭 I’m currently working as **freelance developer**
 
 - 🌱 I’m currently learning **Google Cloud Platform**
@@ -59,6 +83,9 @@
 - 📫 How to reach me **amirhossain.limon@gmail.com**
 
 - ⚡ Fun fact **I have learn Google App-script even before learning JavaScript.**
+
+ -->
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
