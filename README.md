@@ -18,11 +18,16 @@
     <!--Bd flag-->
     <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
-    Hello, I'm Md Amir Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    Hello, I'm Md Amir Hossain from Bangladesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
     <br/> 
-    JavaScript | Full-stack | React | Next.Js | GCP | Google Apps Script Programmer.
+    JavaScript | Full-stack | React | Next.Js | GCP | Google Apps Script
   </h2>
   <h3 align="center">JavaScript is my expertise.</h3>
+
+  <div align="left" text-align= "justify">
+    I am a developer💖✨ with a passion for building innovative and user-friendly websites and applications. I specialize in the 💥Next.js/React focussed on 🎯MERN stack (MongoDB, Express, React, and Node.js). And I have a strong foundation in Google Cloud along with Web3 technologies. I am excited to bring my skills and experience to new opportunities and help build the next generation of web-based solutions🚀.
+  </div>
+  <br />
 </div>
 
 
@@ -32,14 +37,15 @@
 <h1 align="center">Hi 👋, I'm Md Amir Hossain from Bangladesh</h1>
 <h2 align="center">React | Next.Js | Web Developer | JavaScript | Google Apps Script Programmer</h3>
 <h3 align="center">JavaScript is my expertise.</h3>
- -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swopno1&label=Profile%20views&color=0e75b6&style=flat" alt="Md Amir Hossain" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swopno1" alt="Md Amir Hossain" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shohojetech" target="blank"><img src="https://img.shields.io/twitter/follow/shohojetech?logo=twitter&style=for-the-badge" alt="shohojetech" /></a> </p>
-
+ -->
+ 
 - 🔭 I’m currently working as **freelance developer**
 
 - 🌱 I’m currently learning **Google Cloud Platform**
