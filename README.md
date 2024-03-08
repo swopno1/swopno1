@@ -3,7 +3,7 @@
 ![Code Time Per Day (Avg)](http://img.shields.io/badge/Code%20Time%20Per%20Day%20Avg-06%20hrs%2024%20mins-blue)
 ![Focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![Projects](https://img.shields.io/badge/projects-30-important)
-![Living](https://img.shields.io/badge/living-Natore-3c9)
+![Living](https://img.shields.io/badge/living-Noakhali-3c9)
 ![Age](https://img.shields.io/badge/age-35-blueviolet)
 ![views](https://komarev.com/ghpvc/?username=swopno1&label=Profile%20views&color=0e75b6&style=flat)
 [![Github](https://img.shields.io/github/followers/swopno1?label=Follow&style=social)](https://github.com/swopno1)&nbsp;
@@ -12,6 +12,20 @@
 
 <!-- === === === === === === === === === === === === === === -->
 <!-- ✦✦✦ -->
+
+<div>
+  <h3 align="center">
+    <!--Bd flag-->
+    <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
+    <br/> 
+    Hello, I'm Md Amir Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
+    <br/> 
+    I'm an enthusiastic and passionate Web Developer from Bangladesh.
+  </h3>
+</div>
+
+
+<!-- Old from here -->
 
 <h1 align="center">Hi 👋, I'm Md Amir Hossain</h1>
 <h2 align="center">React | Next.Js | Web Developer | JavaScript | Google Apps Script Programmer</h3>
