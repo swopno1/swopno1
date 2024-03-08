@@ -37,8 +37,6 @@
 <!-- right side img -->
 <img align='right' height='180'  src='https://user-images.githubusercontent.com/113727503/211640671-ad9fe273-eccd-472c-b563-aadbf7410b16.gif'>
 
-<br />
-
 <div>
 <!-- left side section -->
 
@@ -54,6 +52,45 @@
 <br/>
 
 <h3 align="center">♻️🔗 Latest Project Live link 🔗♻️</h3>
+
+- Investor Hints: [Live Preview](https://www.investorhints.com/)
+- Pulse Stock: [Live Preview](https://www.pulsestock.ai/)
+- AmirNFT: [Live Preview](https://amirnft.com/)
+
+<br/>
+
+<!-- === === === === === === Github Status === === === === === === === === -->
+
+<h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 💝 Github Status 💝 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </h1>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img
+          alt="swopno1 :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=swopno1&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td>
+        <img
+          alt="swopno1 :: Top Langs]"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=swopno1&langs_count=20&theme=blue-green&layout=compact&hide=html"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          align="center"
+          src="https://github-readme-streak-stats.herokuapp.com?user=swopno1&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 
 <!-- Old from here -->
