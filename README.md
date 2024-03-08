@@ -14,22 +14,25 @@
 <!-- ✦✦✦ -->
 
 <div>
-  <h3 align="center">
+  <h2 align="center">
     <!--Bd flag-->
     <img src="https://bestanimations.com/media/bangladesh/1932860375bangladesh-flag-waving-gif-animation-6.gif#.Y7aWtlAZZRY.link" width="100px" height="60px"/> 
     <br/> 
     Hello, I'm Md Amir Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">! 
     <br/> 
-    I'm an enthusiastic and passionate Web Developer from Bangladesh.
-  </h3>
+    JavaScript | Full-stack | React | Next.Js | GCP | Google Apps Script Programmer.
+  </h2>
+  <h3 align="center">JavaScript is my expertise.</h3>
 </div>
 
 
 <!-- Old from here -->
 
-<h1 align="center">Hi 👋, I'm Md Amir Hossain</h1>
+<!--
+<h1 align="center">Hi 👋, I'm Md Amir Hossain from Bangladesh</h1>
 <h2 align="center">React | Next.Js | Web Developer | JavaScript | Google Apps Script Programmer</h3>
 <h3 align="center">JavaScript is my expertise.</h3>
+ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swopno1&label=Profile%20views&color=0e75b6&style=flat" alt="Md Amir Hossain" /> </p>
 
