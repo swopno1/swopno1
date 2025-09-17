@@ -19,7 +19,7 @@
 ### 🚀 What I'm Currently Focused On
 
 *   💼 **Open to New Opportunities:** I am actively looking for a new role where I can contribute my skills in JavaScript and full-stack development.
-*   🌱 **Learning and Growth:** I am expanding my knowledge in Site Reliability Engineering (SRE) and plan to contribute to open-source projects in this area.
+*   🌱 **Learning and Growth:** In an effort to enhance my knowledge and adapt to the advancements of artificial intelligence, I have resolved to contribute to open-source projects in this field.
 *   🏢 **My Agency:** I run [ViveScript Solutions](https://vivescriptsolutions.com/), an agency focused on web development and automation. This venture has allowed me to sharpen my project management and client communication skills.
 
 ---
